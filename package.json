@@ -1,5 +1,5 @@
 {
-  "name": "telegram-webapp-types",
+  "name": "telegram-webapp-helper",
   "version": "1.0.0",
   "description": "Telegram WebApp Types for TS",
   "scripts": {
