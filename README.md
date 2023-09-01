@@ -14,4 +14,8 @@ declare global {
     Telegram: Telegram
   }
 }
+
+or
+
+import 'telegram-webapp-helper'
 ```
