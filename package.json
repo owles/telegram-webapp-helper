@@ -1,6 +1,6 @@
 {
   "name": "telegram-webapp-helper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Telegram WebApp Types for TS",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,7 @@
     "typings",
     "webapps"
   ],
-  "types": "./dist/types.ts",
+  "types": "./dist/types.d.ts",
   "author": "Owles",
   "license": "MIT"
 }
