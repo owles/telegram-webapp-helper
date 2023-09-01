@@ -1,0 +1,22 @@
+{
+  "name": "telegram-webapp-types",
+  "version": "1.0.0",
+  "description": "Telegram WebApp Types for TS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owles/telegram-webapp-helper.git"
+  },
+  "keywords": [
+    "typescript",
+    "bots",
+    "telegram",
+    "typings",
+    "webapps"
+  ],
+  "types": "./dist/types.d.ts",
+  "author": "Owles",
+  "license": "MIT"
+}
